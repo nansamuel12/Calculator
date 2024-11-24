@@ -1,8 +1,19 @@
+
 *{
     margin: 0;
     padding: 0;
     font-family: 'poppins',sans-serif;
     box-sizing: border-box;
+}
+.name{
+    color: #792308;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background:#e3f9ff;
+    font-size: 50px;
+    margin-bottom: -25px;
+
 }
 .contener{
     width: 100%;
